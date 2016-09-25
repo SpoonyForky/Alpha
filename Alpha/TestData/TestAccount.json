@@ -1,0 +1,88 @@
+﻿{
+  "Bob": [
+    {
+      "id": "0001",
+      "income": {
+        "id": "0001",
+        "description": "bursary",
+        "amount": "400",
+        "category": "income",
+        "date": "09022016"
+      },
+      {
+        "id": "0002",
+        "description": "OSAP",
+        "amount": "22500",
+        "category": "income",
+        "date": "09022016"
+      },
+      "expenses": {
+        "id": "0002",
+        "description": "HardDrive replacement",
+        "amount": "79.55",
+        "category": "2",
+        "date": "09022016"
+      },
+      {
+        "id": "0003",
+        "description": "beer",
+        "amount": "60",
+        "category": "4",
+        "date": "09022016"
+      },
+      {
+        "id": "0004",
+        "description": "Books",
+        "amount": "250",
+        "category": "2",
+        "date": "09022016"
+      },
+      {
+        "id": "0005",
+        "description": "MacDonalds",
+        "amount": "2.50",
+        "category": "5",
+        "date": "09022016"
+      },
+      {
+        "id": "0006",
+        "description": "Tuition",
+        "amount": "2250",
+        "category": "1",
+        "date": "09022016"
+      },
+      {
+        "id": "0007",
+        "description": "Rent",
+        "amount": "750",
+        "category": "1",
+        "date": "09022016"
+      }
+    }
+  ],
+
+  "simpleexpense": [
+    {
+      "desc": "take out",
+      "amount": "30"
+    },
+    {
+      "desc": "clothes",
+      "amount": "50"
+    },
+    {
+      "desc": "grocery",
+      "amount": "90"
+    },
+    {
+      "desc": "rent",
+      "amount": "600"
+    }
+  ]
+
+
+
+
+
+  }
+
